@@ -309,7 +309,7 @@ export const guest = (() => {
         const data = new URLSearchParams({
             action: 'TEMPLATE',
             text: 'Đám cưới Quang Toàn & Hương Ly',
-            dates: `${formatDate('2026-04-11 10:00')}/${formatDate('2026-04-11 11:00')}`,
+            dates: `${formatDate('2026-04-11 13:00')}/${formatDate('2026-04-11 16:00')}`,
             details: 'Trân Trọng Kính Mời Quý Khách Đến Dự Lễ Thành Hôn Của Chúng Tôi\n\nĐịa điểm nhà trai: Nhà văn hóa thôn Đông Khê, Đan Phượng, Hà Nội\nĐịa điểm nhà gái: số 18 đường Tháp - Thụy, Đan Phượng, Hà Nội\nThời gian: 10:00, Thứ Bảy, ngày 11 tháng 4 năm 2026\n\nRất mong nhận được sự hiện diện của quý khách để chung vui cùng chúng tôi trong ngày trọng đại này.\n\nTrân trọng cảm ơn!',
         });
 
